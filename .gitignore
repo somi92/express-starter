@@ -35,6 +35,9 @@ build/Release
 # dist directory
 dist
 
+# public build directory
+public/build
+
 # Dependency directories
 node_modules/
 jspm_packages/
